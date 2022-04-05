@@ -383,5 +383,5 @@ int main(int argc, char **argv)
 		else close(sck);
 	}
 	
-	return 0;
+	return 1;
 }
